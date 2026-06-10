@@ -13,7 +13,7 @@
 | 2 | Struktur Data Python, Numpy dan Pandas | https://github.com/WahyuriN/UTS_datasience/blob/main/pertemuan2_Wahyu_Ari_Nugroho_240401010173.ipynb |
 
 
-|3||
+| 3 | Data Cleaning: Missing Values, Outlier dan Ekstraksi Data | https://github.com/WahyuriN/UTS_datasience/blob/main/pertemuan3_wahyu_ari_nugroho_240401010173.ipynb |
 
 
 |4||
